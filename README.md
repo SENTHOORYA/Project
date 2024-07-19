@@ -1,1 +1,2 @@
-# Project
+# Detection of myshap and myocardial infraction
+Here, the system monitors the driver's health as they operate a vehicle. If there is a sudden cardiac arrest or other health problem, such as a change in heart rate or oxygen level, it could result in an accident.In this instance, it prevents the accident by providing the user's family, the administrator, and the police with a live location and alert message.Additionally, by determining the person's position, the alert and location will be provided if the person is met with an accident.
